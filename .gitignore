@@ -1,0 +1,4 @@
+*.box
+/output-ubuntu-1604-vbox
+/packer_cache
+template.json
