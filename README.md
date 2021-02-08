@@ -6,7 +6,9 @@
 
 ### Prerequisites
 [x] [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
 [x] [Vagrant](https://www.vagrantup.com/downloads)
+
 [x] [Packer](https://www.packer.io/downloads)
 
 ## How to Use the Repo
@@ -22,6 +24,6 @@ $ cd packer-base
 
 - Start Packer
 ```shell
-packer build newtemplate.json
+$ packer build newtemplate.json
 ```
 
