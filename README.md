@@ -5,11 +5,11 @@
 ### This repo is based on the following repo: [packer-xenial64](https://github.com/nielsabels/packer-xenial64)
 
 ### Prerequisites
-[x] [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [X] [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-[x] [Vagrant](https://www.vagrantup.com/downloads)
+- [X] [Vagrant](https://www.vagrantup.com/downloads)
 
-[x] [Packer](https://www.packer.io/downloads)
+- [X] [Packer](https://www.packer.io/downloads)
 
 ## How to Use the Repo
 - Clone this repo:
